@@ -46,14 +46,12 @@ NumPy
 Matplotlib
 Seaborn
 
-```markdown
+``` bash
 ## Dependencies
 
 pip install tensorflow keras opencv-python pandas numpy matplotlib seaborn
 
-```bash
-
-
+```
 ## Usage Instructions
 
 Install required libraries.
